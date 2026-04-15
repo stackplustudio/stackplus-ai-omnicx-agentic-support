@@ -91,4 +91,4 @@ Customer service bisnis saat ini terpecah: WhatsApp, email, live chat, telepon, 
 
 **Tech stack:** Python (LangChain, LangGraph), FastAPI, PostgreSQL, Pinecone, Redis, Docker, LLM via Together.ai / OpenAI.
 **Kompleksitas:** Hard
-**Role:** AI Engineer (2), Backend (1), Frontend (0.5)
+**Role:** Full Stack AI Developer
